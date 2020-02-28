@@ -1,2 +1,1 @@
-# AI
-All AI projects here
+Alex Fotios
